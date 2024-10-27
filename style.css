@@ -1,0 +1,109 @@
+  
+body{
+    font-family:"Roboto", serif;
+}
+.taskia-head{
+    font-size: 2.3rem;
+    color:  rgb(92, 92, 233);
+    font-weight: 800;
+    height: 3rem;
+}
+.btn-outline-primary {
+    height: 3rem; 
+    padding: 0 20px; 
+    font-size: 1rem; 
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+.hero-topic {
+    font-size: 4rem; 
+    font-weight: 800;
+}
+.hero-text {
+    font-size: 1.25rem; 
+    max-width: 78%; 
+}
+.custom-input {
+    max-width: 60%; 
+}
+.custom-button {
+    max-width: 20%;
+    background-color: rgb(92, 92, 233); 
+}
+.custom-service-headline{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    border-radius: 8px; 
+}
+.custom-cart-title{
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+.card img {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.cart-1{
+    background-color: rgb(92, 92, 233);
+}
+.cart-2{
+    background-color: rgb(225, 225, 226);
+}
+.cart-3{
+    background-color: rgb(230, 196, 133);
+}
+.custom-button-1 {
+    width: 150px;
+    padding: 20px 30px;
+    background-color: rgb(92, 92, 233);
+}
+
+.hero-text-1 {
+    font-size: 1rem;
+    line-height: 1.6rem;
+}
+.custom-height {
+    height: 70vh; 
+    overflow: hidden; 
+}
+.img-large {
+    max-width: 320px; 
+    width: 100%; 
+}
+
+.img-small {
+    max-width: 230px; 
+    width: 100%; 
+}
+
+#numeric {
+    font-size: 7rem; 
+    font-weight: 500;
+    color: rgb(92, 92, 233);
+}
+
+.img-fluid {
+    max-height: 80%; 
+    object-fit: contain; 
+}
+.custom-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}   
+.custom-text{
+    font-size: 1.3rem;
+    color: rgb(78, 77, 77);
+    font-weight: 300;
+}
+.custom-input-1 {
+    max-width: 20%; 
+    padding: 0px; 
+}
+.custom-button-2 {
+    max-width: 10%;
+    background-color: rgb(92, 92, 233); 
+}
